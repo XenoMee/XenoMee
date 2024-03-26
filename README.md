@@ -12,6 +12,7 @@ Climbing on the ladder to become a great developer
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=badge&logo=github&logoColor=white)](https://github.com/XenoMee)
 [![X Follow](https://img.shields.io/badge/-100000?style=badge&logo=x&logoColor=white)](https://twitter.com/XenooMee)
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriantrandafir09)
+[![Frontend Mentor Follow](https://img.shields.io/badge/Frontend%20Mentor?style=for-the-badge&logo=Frontend%20Mentor&logoColor=white))](https://www.frontendmentor.io/profile/XenoMee)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/trandafir.adrian.09)
 [![LeetCode Follow](https://img.shields.io/badge/LeetCode-FFA116?style=badge&logo=leetcode&logoColor=white)](https://leetcode.com/XenooMe)
 
