@@ -3,7 +3,7 @@
 Climbing on the ladder to become a great developer
 
 * 🌍  I'm from Bucharest, Romania
-* 🖥️  See my portfolio at [My Portfolio](https://xenomee.github.io/adriantrandafir/)
+* 🖥️  See my portfolio at [Adrian Trandafir](https://xenomee.github.io/adriantrandafir/)
 * ✉️  You can reach me at [adrian-stefan.trandafir@outlook.com](mailto:adrian-stefan.trandafir@outlook.com)
 * 🧠  I'm currently learning Frontend Web Development
 * 🤝  I'm open to collaborating on interesting projects
