@@ -6,7 +6,7 @@ Climbing on the ladder to become a great developer
 * 🖥️  See my portfolio at [Adrian Trandafir](https://xenomee.github.io/adriantrandafir/)
 * ✉️  You can reach me at [adrian-stefan.trandafir@outlook.com](mailto:adrian-stefan.trandafir@outlook.com)
 * 🧠  I'm currently learning Frontend Web Development
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on innovative and creative projects
 
 
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=badge&logo=github&logoColor=white)](https://github.com/XenoMee)
