@@ -1,5 +1,5 @@
 # Hi!👋 I'm Adrian
-## Web Developer
+## Front-End Developer
 Climbing on the ladder to become a great developer
 
 * 🌍  I'm from Bucharest, Romania
