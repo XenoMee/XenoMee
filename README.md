@@ -2,7 +2,7 @@
 ## Front-End Developer
 Climbing on the ladder to become a great developer
 
-* 🌍  I'm from Bucharest, Romania
+* 🌍  Living in Bucharest, Romania
 * 🖥️  See my portfolio at [Adrian Trandafir](https://xenomee.github.io/adriantrandafir/)
 * ✉️  You can reach me at [adrian-stefan.trandafir@outlook.com](mailto:adrian-stefan.trandafir@outlook.com)
 * 🧠  I'm currently learning Meta Frameworks such as Next.js
